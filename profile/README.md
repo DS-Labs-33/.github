@@ -1,14 +1,12 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3E4554&height=300&section=header&text=DS%20Labs&fontSize=90&color=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Building%20the%20Future,%20One%20Commit%20at%20a%20Time.&descAlignY=51&descAlign=62" alt="DS Labs Banner" width="100%" />
 
-  <h1 align="center">DS Labs</h1>
-
   <p align="center">
     <b>Innovation • Scalability • Deployment</b>
   </p>
 
-  [![Website](https://img.shields.io/badge/Website-Coming_Soon-blue?style=for-the-badge&logo=vercel)](https://github.com/DS-labs-op)
-  [![Contact](https://img.shields.io/badge/Contact-Email_Us-black?style=for-the-badge&logo=gmail)](mailto:sahajitaliya33@gmail.com)
+  [![Website](https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=vercel)](https://ds-labs-portfolio.vercel.app/)
+  [![Contact](https://img.shields.io/badge/Contact-Email_Us-black?style=for-the-badge&logo=gmail)](mailto:contactdslabs@gmail.com)
 
   <br />
 </div>
