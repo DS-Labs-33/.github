@@ -88,8 +88,8 @@ We leverage a modern, opinionated stack to build fast and reliable software.
 ## 📈 Stats & Activity
 
 <div align="center">
-  <a href="https://github.com/sahaj33-op"><img src="https://readme-stats-seven-rust.vercel.app/api?username=sahaj33-op&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" /></a>
-  <a href="https://github.com/divyviradiya2"><img src="https://readme-stats-seven-rust.vercel.app/api?username=divyviradiya2&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" /></a>
+  <a href="https://github.com/sahaj33-op"><img src="https://readme-stats-seven-rust.vercel.app/api?username=sahaj33-op&theme=transparent&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" width="49%" /></a>
+  <a href="https://github.com/divyviradiya2"><img src="https://readme-stats-seven-rust.vercel.app/api?username=divyviradiya2&theme=transparent&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" width="49%" /></a>
 </div>
 
 ---
