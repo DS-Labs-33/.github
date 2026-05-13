@@ -17,7 +17,7 @@
 
 ## 🚀 Who We Are
 
-**DS Labs** is the engineering playground and product studio founded by **[Divy](https://github.com/divyviradiya1501)** and **[Sahaj](https://github.com/Sahaj33-op)**.
+**DS Labs** is the engineering playground and product studio founded by **[Divy](https://github.com/divyviradiya2)** and **[Sahaj](https://github.com/Sahaj33-op)**.
 
 We are a duo of driven developers focused on building **scalable, efficient, and monetizable** software solutions. From high-performance web applications to complex automation scripts, we turn abstract ideas into deployed reality. We don't just write code; we ship products.
 
@@ -69,8 +69,8 @@ We leverage a modern, opinionated stack to build fast and reliable software.
       <a href="https://github.com/Sahaj33-op"><img src="https://img.shields.io/badge/Role-Fullstack_%26_AI-blue?style=flat-square" /></a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/divyviradiya1501">
-        <img src="https://github.com/divyviradiya1501.png" width="100px;" alt="Divy"/>
+      <a href="https://github.com/divyviradiya2">
+        <img src="https://github.com/divyviradiya2.png" width="100px;" alt="Divy"/>
         <br />
         <b>Divy</b>
       </a>
@@ -78,7 +78,7 @@ We leverage a modern, opinionated stack to build fast and reliable software.
       <sub>Co-Founder & Lead Engineer</sub>
       <br />
       <br />
-      <a href="https://github.com/divyviradiya1501"><img src="https://img.shields.io/badge/Role-Fullstack_%26_AI-blue?style=flat-square" /></a>
+      <a href="https://github.com/divyviradiya2"><img src="https://img.shields.io/badge/Role-Fullstack_%26_AI-blue?style=flat-square" /></a>
     </td>
   </tr>
 </table>
@@ -89,7 +89,7 @@ We leverage a modern, opinionated stack to build fast and reliable software.
 
 <div align="center">
   <a href="https://github.com/sahaj33-op"><img src="https://readme-stats-seven-rust.vercel.app/api?username=sahaj33-op&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" /></a>
-  <a href="https://github.com/divyviradiya1501"><img src="https://readme-stats-seven-rust.vercel.app/api?username=divyviradiya1501&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" /></a>
+  <a href="https://github.com/divyviradiya2"><img src="https://readme-stats-seven-rust.vercel.app/api?username=divyviradiya2&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" /></a>
 </div>
 
 ---
