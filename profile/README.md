@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=300&section=header&text=DS%20Labs&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Building%20the%20Future,%20One%20Commit%20at%20a%20Time.&descAlignY=51&descAlign=62" alt="DS Labs Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3E4554&height=300&section=header&text=DS%20Labs&fontSize=90&color=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Building%20the%20Future,%20One%20Commit%20at%20a%20Time.&descAlignY=51&descAlign=62" alt="DS Labs Banner" width="100%" />
 
   <h1 align="center">DS Labs</h1>
 
