@@ -15,7 +15,7 @@
 
 ## 🚀 Who We Are
 
-**DS Labs** is the engineering playground and product studio founded by **[Divy](https://github.com/divyviradiya2)** and **[Sahaj](https://github.com/Sahaj33-op)**.
+**DS Labs** is the engineering playground and product studio founded by **[Divy](https://github.com/divyviradiya2)** and **[Sahaj](https://github.com/sizwinz)**.
 
 We are a duo of driven developers focused on building **scalable, efficient, and monetizable** software solutions. From high-performance web applications to complex automation scripts, we turn abstract ideas into deployed reality. We don't just write code; we ship products.
 
@@ -55,8 +55,8 @@ We leverage a modern, opinionated stack to build fast and reliable software.
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/Sahaj33-op">
-        <img src="https://github.com/Sahaj33-op.png" width="100px;" alt="Sahaj"/>
+      <a href="https://github.com/sizwinz">
+        <img src="https://github.com/sizwinz.png" width="100px;" alt="Sahaj"/>
         <br />
         <b>Sahaj</b>
       </a>
@@ -64,7 +64,7 @@ We leverage a modern, opinionated stack to build fast and reliable software.
       <sub>Co-Founder & Lead Engineer</sub>
       <br />
       <br />
-      <a href="https://github.com/Sahaj33-op"><img src="https://img.shields.io/badge/Role-Fullstack_%26_AI-blue?style=flat-square" /></a>
+      <a href="https://github.com/sizwinz"><img src="https://img.shields.io/badge/Role-Fullstack_%26_AI-blue?style=flat-square" /></a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/divyviradiya2">
@@ -86,7 +86,7 @@ We leverage a modern, opinionated stack to build fast and reliable software.
 ## 📈 Stats & Activity
 
 <div align="center">
-  <a href="https://github.com/sahaj33-op"><img src="https://readme-stats-seven-rust.vercel.app/api?username=sahaj33-op&theme=transparent&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" width="49%" /></a>
+  <a href="https://github.com/sizwinz"><img src="https://readme-stats-seven-rust.vercel.app/api?username=sizwinz&theme=transparent&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" width="49%" /></a>
   <a href="https://github.com/divyviradiya2"><img src="https://readme-stats-seven-rust.vercel.app/api?username=divyviradiya2&theme=transparent&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" width="49%" /></a>
 </div>
 
