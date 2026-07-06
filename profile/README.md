@@ -1,9 +1,15 @@
 <div align="center">
-  <h1>DS Labs</h1>
-  <p>Engineering high-performance web applications, intelligent AI systems, and robust backend architecture.</p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="DS-Labs_W.png">
+    <source media="(prefers-color-scheme: light)" srcset="DS-Labs_B.png">
+    <img alt="DS Labs" src="DS-Labs_W.png" height="100px">
+  </picture>
 
-  <a href="https://ds-labs-portfolio.vercel.app/">Website</a> • 
-  <a href="mailto:contactdslabs@gmail.com">Contact</a>
+  <h1>DS LABS</h1>
+  <p>Engineering Intelligent AI, Robust Backends, and High-Performance Web Applications.</p>
+
+  <a href="mailto:contactdslabs@gmail.com"><img src="https://img.shields.io/badge/GET_IN_TOUCH-Email-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Get in Touch" height="32px"></a>
+  <a href="https://ds-labs-portfolio.vercel.app/"><img src="https://img.shields.io/badge/VISIT_WEBSITE-Portfolio-lightgrey?style=for-the-badge&logo=vercel&logoColor=black" alt="Visit Website" height="32px"></a>
 </div>
 
 ---
