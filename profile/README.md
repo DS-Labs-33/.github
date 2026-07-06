@@ -2,10 +2,9 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="DS-Labs_W.png">
     <source media="(prefers-color-scheme: light)" srcset="DS-Labs_B.png">
-    <img alt="DS Labs" src="DS-Labs_W.png" height="100px">
+    <img alt="DS Labs" src="DS-Labs_W.png" height="200px">
   </picture>
-
-  <h1>DS LABS</h1>
+  
   <p>Engineering Intelligent AI, Robust Backends, and High-Performance Web Applications.</p>
 
   <a href="mailto:contactdslabs@gmail.com"><img src="https://img.shields.io/badge/GET_IN_TOUCH-Email-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Get in Touch" height="32px"></a>
